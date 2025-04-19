@@ -14,3 +14,5 @@
 当然，这个小工具仅给君博一乐，实验结果我自己都保证不了准确
 
 ## [开源地址](https://github.com/zmxmaigan/CSVExcel-Speed-Test)
+
+> PS：这个项目只在Github上有，如果你在GitCode或者Gitee上见到了这个项目，**请不要点击！！！**
