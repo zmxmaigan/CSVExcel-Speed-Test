@@ -15,4 +15,6 @@
 
 ## [开源地址](https://github.com/zmxmaigan/CSVExcel-Speed-Test)
 
+当然，如果你想在当前页面查看源代码，请到[点击蓝字](./main.cpp)查看
+
 > PS：这个项目只在Github上有，如果你在GitCode或者Gitee上见到了这个项目，**请不要点击！！！**
