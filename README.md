@@ -1,4 +1,4 @@
-# CSVExcel-Speed-Test
+# CSVExcel-Speed-Test（Excel测速软件）
 
 笔者账号：[![笔者B站](./Pic/logo.png)](https://space.bilibili.com/1512804294)
 
@@ -13,6 +13,12 @@
 它是通过随机生成n*m大小的随机数，写入到.csv里面，再测试打开速度。
 
 当然，这个小工具仅给君博一乐，实验结果我自己都保证不了准确
+
+## 截图
+
+![image](https://github.com/user-attachments/assets/492b7d0a-ed46-4559-bf10-0727a83a0e23)
+
+## [演示视频](https://www.bilibili.com/video/BV1ba5ozZEFh/)
 
 ## [开源地址](https://github.com/zmxmaigan/CSVExcel-Speed-Test)
 
